@@ -1,6 +1,6 @@
 {
   "name": "@hspjs/reset.css",
-  "version": "2.0.3",
+  "version": "0.0.0",
   "description": "Genuine Eric Meyer's Reset CSS bundled as npm package",
   "main": "reset.css",
   "style": "reset.css",
