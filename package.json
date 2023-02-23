@@ -1,6 +1,6 @@
 {
   "name": "reset.css",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Genuine Eric Meyer's Reset CSS bundled as npm package",
   "main": "reset.css",
   "style": "reset.css",
@@ -23,4 +23,3 @@
   },
   "homepage": "https://github.com/kossnocorp/reset.css"
 }
-
