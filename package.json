@@ -6,7 +6,7 @@
   "style": "reset.css",
   "scripts": {
     "update": "rm -f ./reset.css && curl -O http://meyerweb.com/eric/tools/css/reset/reset.css",
-    "public": "cnpm version patch && npm publish --access public"
+    "public": "npm version patch && npm publish --access public"
   },
   "repository": {
     "type": "git",
