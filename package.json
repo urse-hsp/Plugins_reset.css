@@ -1,6 +1,6 @@
 {
   "name": "@infte/reset.css",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Genuine Eric Meyer's Reset CSS bundled as npm package",
   "main": "reset.css",
   "style": "reset.css",
